@@ -1,2 +1,2 @@
 # hello-world
-Description for repository
+Description for repository.
