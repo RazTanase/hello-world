@@ -1,3 +1,3 @@
 # hello-world
 Description for repository
-I'm writing a line in the second branch, branch, which is a copy after the master branch.
+Hello, my name is Razvan and I'm making a commit in GitHub.
